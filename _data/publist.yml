@@ -2,7 +2,7 @@
 - title: "Depreciation Cost is a Poor Proxy for Revenue Lost to Aging in Grid Storage Optimization"
   image: acc24_depreciation.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Kumtepeli Volkan, Hesse Holger, Morstyn Thomas, Nosratabadi Seyyed Mostafa, Aunedi Marko, Howey David A.
+  authors: Kumtepeli, Volkan and Hesse, Holger and Morstyn, Thomas and Nosratabadi, Seyyed Mostafa and Aunedi, Marko and Howey, David. A.
   link:
     url: https://arxiv.org/pdf/2403.10617
     display: American Control Conference 2024
@@ -11,7 +11,7 @@
 - title: "Taking the long view on short-run marginal emissions: how much carbon does flexibility and energy storage save?"
   image: OOE.png
   description: Grid-scale electricity storage will play a crucial role in the transition of power systems towards zero carbon. During the transition, investments need to be channeled towards technologies and locations that enable zero carbon operation in the long term, while also delivering security of supply and value for money. We discuss metrics and market signals that are needed to guide this transition towards clean, secure and affordable solutions. Paradoxically, carbon metrics play an important role, but become less effective as a decision tool once the system approaches zero carbon. We critically assess the role of marginal and average emission and question the allocation of marginal emissions in systems where combinations of renewables and storage deliver flexibility. We conclude that, for strategic investments, short-term market signals may not always deliver sufficiently fast or far-sighted outcomes and operational decisions need to consider the merit order of demand as well as supply.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+  authors: Grunewald, Phil and Aunedi, Marko and Nosratabadi, Seyyed Mostafa and Morstyn, Thomas and Savelli, Iacopo and Kumtepeli, Volkan and Howey, David.
   link:
     url: https://doi.org/10.1093/ooenergy/oiad008
     display: Oxford Open Energy
