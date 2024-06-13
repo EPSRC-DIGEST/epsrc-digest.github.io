@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "DIGEST project - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
