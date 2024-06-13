@@ -26,7 +26,7 @@
   education2: Master, University of Tokyo
 
 - name: Dr Thomas Morstyn
-  photo: tjeruk.jpg
+  photo: Thomas.jpg
   info: Postdoc, since 2023
   email: benschop@physics.leidenuniv.nl
   number_educ: 3
@@ -34,25 +34,25 @@
   education2: Master Oxford University with Milan Allan
   education3: Casimir PhD fellowship
 
-- name: Meng Li
-  photo: MengLi.jpg
-  info: Postdoc, since 2023
+- name: Dr Volkan Kumtepeli
+  photo: Volkan.jpg
+  info: Postdoctoral Research Assistant, since 2021 February
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
-  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
-  education2: BSc University of Chinese Academy of Sciences
+  education1: PhD, Interdisciplinary Graduate School, Nanyang Technological University, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
+  education2: BSc Yildiz Technical University
 
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
+- name: Dr Seyyed Mostafa Nosratabadi
+  photo: Mostafa.jpg
   info: Postdoc, since November 2023
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
   education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
   education2: MSc KIT
 
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
+- name: Dr Phil Grünewald
+  photo: Phil.png
+  info: Research Fellow, started September 2021
   email: b
   number_educ: 2
   education1: Master Applied Physics, TU Delft
@@ -60,54 +60,10 @@
   education3:
   education4:
 
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
+- name: Industry partners
+  photo: team.png
   info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
   email: b
   number_educ: 2
   education1: Master Oxford University
   education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Sanghun Lee 이상헌
-  photo: Sanghun.jpg
-  info: PhD Student
-  email: b
-  number_educ: 2
-  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
-  education2: BSc, Yonsei University
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Oxford University
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
