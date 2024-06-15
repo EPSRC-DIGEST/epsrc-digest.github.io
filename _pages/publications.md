@@ -29,7 +29,7 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="35%" style="float: left" />
 {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
 <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
-<div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
+<div id="abstract{{ forloop.index }}" class="abstract-content" style="display:inherit;">
   <p>{{ publi.description }}</p>
 </div>
   <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
