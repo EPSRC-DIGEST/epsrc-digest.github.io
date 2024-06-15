@@ -29,6 +29,13 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
+  {% if publi.description %} <a data-toggle="collapse" href="#{{publi.link.url}}" class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.link.url}}">ABSTRACT</a>{% endif %}
+  {% if publi.description %}
+  <br/>
+  <div class="collapse" id="{{publi.link.url}}"><div class="well-abstract">
+  {{publi.description}}
+  </div></div>
+  {% endif %}
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
