@@ -36,6 +36,10 @@ permalink: /publications/
   {{publi.description}}
   </div></div>
   {% endif %}
+  <button type="button" class="collapsible">Open Collapsible</button>
+  <div class="content">
+    <p>Lorem ipsum...</p>
+  </div>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
