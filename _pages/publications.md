@@ -6,7 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
 ## Group highlights
@@ -27,13 +26,13 @@ permalink: /publications/
   <div class="well">
     <pubtit>{{ publi.title }}</pubtit>
     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-    <p id="publi-description-{{ forloop.index }}" style="display: none;">{{ publi.description }}</p>
+    <p id="publi-description-{{ forloop.index }}" class="collapse">{{ publi.description }}</p>
     <p><em>{{ publi.authors }}</em></p>
     <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
     <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
     <p> {{ publi.news2 }}</p>
-    <button class="btn btn-success" onclick="window.location.href='{{ publi.link.url }}'">PDF</button>
-    <button class="btn btn-danger" onclick="document.getElementById('publi-description-{{ forloop.index }}').style.display='block'">Abstract</button>
+    <a href="{{ publi.link.url }}" class="btn btn-success" role="button">PDF</a>
+    <a data-toggle="collapse" href="#publi-description-{{ forloop.index }}" class="btn btn-danger" role="button" aria-expanded="false" aria-controls="publi-description-{{ forloop.index }}">Abstract</a>
   </div>
 </div>
 
@@ -53,7 +52,6 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
 ## Patents
 <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
@@ -67,14 +65,3 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
-<script>
-  function toggleAbstract(id) {
-    var element = document.getElementById(id);
-    if (element.style.display === "none") {
-      element.style.display = "block";
-    } else {
-      element.style.display = "none";
-    }
-  }
-</script>
