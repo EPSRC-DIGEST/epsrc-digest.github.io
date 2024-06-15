@@ -24,17 +24,16 @@ permalink: /publications/
    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" />
   {% endif %}
 </li>
-<!-- <li class="flex-item2">
-  <strong> {{ publi.title }}</strong><br/>
+ <li class="flex-item2">
+  <pubtit>{{ publi.title }}</pubtit>
   <em>{{ publi.authors }} </em><br/>
-  {{ publi.display }}<br/>
+  <!-- {{ publi.display }}<br/>
   {% if publi.link.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.link.url }}.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="_blank"><button class="btn-doi">DOI</button></a> {% endif %}
   {% if publi.arxiv %}<a href="https://arxiv.org/abs/{{ publi.arxiv }}" target="_blank"><button class="btn-arxiv">ARXIV</button></a> {% endif %}
   {% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.link.url}}2"  class="btn-bib" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.link.url}}2">BIB</a> {% endif %}
-  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.link.url}}"  class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.link.url}}">ABSTRACT</a> {% endif %}
-
-</li> -->
+  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.link.url}}"  class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.link.url}}">ABSTRACT</a> {% endif %} -->
+</li> 
 </ul>
 </div>
 
