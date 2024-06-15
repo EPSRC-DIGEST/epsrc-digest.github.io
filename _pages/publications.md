@@ -48,7 +48,7 @@ permalink: /publications/
 
 </li>
 </ul>
-
+</div>
 
 
 <!-- <div class="clearfix">
