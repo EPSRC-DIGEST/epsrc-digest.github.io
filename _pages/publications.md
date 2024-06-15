@@ -15,7 +15,7 @@ permalink: /publications/
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 1 %}
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
