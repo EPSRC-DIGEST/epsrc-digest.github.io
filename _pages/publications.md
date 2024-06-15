@@ -6,7 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
 ## Group highlights
@@ -29,16 +28,9 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
-  {% if publi.description %} <a data-toggle="collapse" href="#{{publi.link.url}}" class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.link.url}}">ABSTRACT</a>{% endif %}
-  {% if publi.description %}
-  <br/>
-  <div class="collapse" id="{{publi.link.url}}"><div class="well-abstract">
-  {{publi.description}}
-  </div></div>
-  {% endif %}
-  <button type="button" class="collapsible">Open Collapsible</button>
-  <div class="content">
-    <p>Lorem ipsum...</p>
+  <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
+  <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
+    <p>{{ publi.description }}</p>
   </div>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
@@ -62,12 +54,6 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
-
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
 ## Full List of publications
 
