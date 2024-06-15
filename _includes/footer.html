@@ -47,10 +47,15 @@
 <script>
 	function toggleAbstract(id) {
 		var element = document.getElementById(id);
-		if (element.style.display === "none") {
+		if (element.style.display === "none" || element.style.display === "") {
 			element.style.display = "inline";
 		} else {
 			element.style.display = "none";
 		}
 	}
 </script>
+<style>
+	.abstract-content {
+		display: none;
+	}
+</style>
