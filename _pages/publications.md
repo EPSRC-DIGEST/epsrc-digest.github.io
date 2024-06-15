@@ -15,23 +15,18 @@ permalink: /publications/
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 1 %}
 {% if publi.highlight == 1 %}
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
+<div class="clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <p>{{ publi.authors }}</p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="35%" style="float: left" />
-{% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
-<button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
-<div id="abstract{{ forloop.index }}" class="abstract-content" style="display:inherit;">
-  <p>{{ publi.description }}</p>
-</div>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="35%" style="float: left; margin-right: 15px;" />
+  {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
+  <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
+  <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
+    <p>{{ publi.description }}</p>
+  </div>
   <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
   <p>{{ publi.news2 }}</p>
  </div>
@@ -39,17 +34,8 @@ permalink: /publications/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 {% endif %}
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 <p> &nbsp; </p>
 
