@@ -19,9 +19,9 @@ permalink: /publications/
 
 <div class="clearfix">
  <div class="well">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="15%" style="float: left; margin-right: 15px;" />
   <pubtit>{{ publi.title }}</pubtit>
   <p>{{ publi.authors }}</p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="35%" style="float: left; margin-right: 15px;" />
   {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
   <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
   <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
