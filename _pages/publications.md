@@ -17,7 +17,41 @@ permalink: /publications/
 
 {% if publi.highlight == 1 %}
 
-<div class="clearfix">
+<div class="well-sm">
+<ul class="flex-container">
+<li class="flex-item1">
+  {% if publi.image %}
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" />
+  {% endif %}
+</li>
+<li class="flex-item2">
+  <strong> {{ publi.title }}</strong><br/>
+  <em>{{ publi.authors }} </em><br/>
+  {{ publi.display }}<br/>
+  {% if publi.link.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.link.url }}.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
+  {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="_blank"><button class="btn-doi">DOI</button></a> {% endif %}
+  {% if publi.arxiv %}<a href="https://arxiv.org/abs/{{ publi.arxiv }}" target="_blank"><button class="btn-arxiv">ARXIV</button></a> {% endif %}
+  {% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.link.url}}2"  class="btn-bib" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.link.url}}2">BIB</a> {% endif %}
+  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.link.url}}"  class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{publi.link.url}}">ABSTRACT</a> {% endif %}
+
+{% if publi.abstract %}
+<div class="collapse" id="{{publi.link.url}}"><div class="well-abstract">
+ {{publi.abstract}}
+</div></div>
+{% endif %}
+
+{% if bibtest == true %}
+<div class="collapse" id="{{publi.link.url}}2"><div class="well-bib">
+ <iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.link.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
+</div></div>
+{% endif %}
+
+</li>
+</ul>
+
+
+
+<!-- <div class="clearfix">
  <div class="well">
    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="15%" style="float: left; margin-right: 15px;" />
   <pubtit>{{ publi.title }}</pubtit>
@@ -30,7 +64,7 @@ permalink: /publications/
   <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
   <p>{{ publi.news2 }}</p>
  </div>
-</div>
+</div> -->
 
 {% assign number_printed = number_printed | plus: 1 %}
 
