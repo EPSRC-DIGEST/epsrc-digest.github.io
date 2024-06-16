@@ -23,9 +23,11 @@ To test these, we will develop novel GB transmission grid and market models, and
 
 ### DIGEST has five key objectives
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/WP_structure.svg){: style="width: 70%; float: center; margin: 0px"}
-
-Work packages
+<p align="center">
+  <img alt="DIGEST project work package structure" src="{{ site.url }}{{ site.baseurl }}/images/respic/WP_structure.svg" width="70%">
+  <br>
+    <em>Figure 1. Work packages</em>
+</p>
 
 1. Develop a high-fidelity GB transmission system power flow and market model which can be used to evaluate the direct and indirect carbon impacts of new grid-scale energy storage systems, accounting for technology and location.
 2. Develop scenarios for assessing the carbon reduction potential of energy storage at investment/planning time scales and methods for quantifying the impact of energy storage investment decisions on system-level carbon and financial performance.
@@ -44,7 +46,7 @@ Edinburgh have developed a high-fidelity 3000 node GB transmission network model
 <p align="center">
   <img alt="DIGEST project Edinburgh UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/emissions.png" width="60%">
   <br>
-    <em>Figure 1. Cost and carbon implications of deploying additional wind capacity in different locations on the GB grid</em>
+    <em>Figure 2. Cost and carbon implications of deploying additional wind capacity in different locations on the GB grid</em>
 </p>
 
 
@@ -55,7 +57,7 @@ Imperial use the long established whole-electricity system model (WeSIM), which 
 <p align="center">
   <img alt="DIGEST project Imperial College UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/WeSIM_nodes.png" width="80%">
   <br>
-    <em>Figure 2. 37 nodes for location specific assessment of storage on the GB grid</em>
+    <em>Figure 3. 37 nodes for location specific assessment of storage on the GB grid</em>
 </p>
 
 
