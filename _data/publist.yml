@@ -16,14 +16,4 @@
     url: https://doi.org/10.1093/ooenergy/oiad008
     display: Oxford Open Energy
   highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
-
-# - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-#   image: BSCCOgap.png
-#   description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-#   authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
-#   link:
-#     url: https://www.nature.com/articles/s41563-023-01497-1
-#     display: Nature Materials 22, 703 (2023)
-#   highlight: 1
-#   news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
+  # news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
