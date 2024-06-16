@@ -39,26 +39,26 @@
 	overflow: auto;
 	background-color: rgb(0,0,0);
 	background-color: rgba(0,0,0,0.9);
-  }
+}
   
-  .modal-content {
+.modal-content {
 	margin: auto;
 	display: block;
 	width: 80%;
 	max-width: 700px;
-  }
+}
   
-  .modal-content, #caption {
+.modal-content, #caption {
 	animation-name: zoom;
 	animation-duration: 0.6s;
-  }
+}
   
-  @keyframes zoom {
+@keyframes zoom {
 	from {transform:scale(0)}
 	to {transform:scale(1)}
-  }
+}
   
-  .close {
+.close {
 	position: absolute;
 	top: 15px;
 	right: 35px;
@@ -66,14 +66,14 @@
 	font-size: 40px;
 	font-weight: bold;
 	transition: 0.3s;
-  }
+}
   
-  .close:hover,
-  .close:focus {
+.close:hover,
+.close:focus {
 	color: #bbb;
 	text-decoration: none;
 	cursor: pointer;
-  }
+}
 
 .publi-image {
 	width: 100%;
