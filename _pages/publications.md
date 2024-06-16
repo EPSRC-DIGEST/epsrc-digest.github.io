@@ -45,11 +45,11 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   {{ publi.display }} {% if publi.year %}({{publi.year}}){% endif %}<br/>
   {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
-  {% if publi.description %} <a data-toggle="collapse" href="#{{ publi.link.url }}" class="btn-abstract" style="text-decoration:none; color:#ebebeb; hover:#ebebeb;" role="button" aria-expanded="false" aria-controls="{{ publi.link.url }}">ABSTRACT</a>{% endif %}
+  {% if publi.description %} <a data-toggle="collapse" href="#abstract{{ forloop.index }}" class="btn-abstract" style="text-decoration:none; color:#ebebeb;" role="button" aria-expanded="false" aria-controls="abstract{{ forloop.index }}">ABSTRACT</a>{% endif %}
 
 {% if publi.description %}
 <br/>
-<div class="collapse" id="{{ publi.link.url }}"><div class="well-abstract">
+<div class="collapse" id="abstract{{ forloop.index }}"><div class="well-abstract">
  {{publi.description}}
 </div></div>
 {% endif %}
