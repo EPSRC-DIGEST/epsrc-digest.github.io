@@ -34,21 +34,23 @@ permalink: /publications/
 </div>
 
 <div class="clearfix">
- <div class="well">
-  <table style="width:100%" >
-  <tr>
-    <th style="width:10%; padding-right: 15px;"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="float: left; margin-right: 15px;" /></th>
-    <th><pubtit>{{ publi.title }}</pubtit><br>
-    <p>{{ publi.authors }}</p>
-      {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
-  <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
-  <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
-    <p>{{ publi.description }}</p>
-  </div>
-  <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
-  <p>{{ publi.news2 }}</p></th> 
-  </tr>
-  </table>
+ <div class="well flex-container">
+   <div class="flex-item1">
+     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" />
+   </div>
+   <div class="flex-item2">
+     <pubtit>{{ publi.title }}</pubtit>
+     <p>{{ publi.authors }}</p>
+     {% if publi.link.url %}
+       <a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>
+     {% endif %}
+     <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
+     <div id="abstract{{ forloop.index }}" class="abstract-content">
+       <p>{{ publi.description }}</p>
+     </div>
+     <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
+     <p>{{ publi.news2 }}</p>
+   </div>
  </div>
 </div>
 
