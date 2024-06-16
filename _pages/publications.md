@@ -34,30 +34,14 @@ permalink: /publications/
 </div>
 
 <div class="clearfix">
-  <div class="row">
-    <!-- First Column: Image -->
-    <div class="col-xs-2 col-sm-1 col-md-1">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" />
-    </div>
-    <!-- Second Column: Title, Description, and Buttons -->
-    <div class="col-xs-10 col-sm-11 col-md-11">
-      <div class="well">
-        <pubtit>{{ publi.title }}</pubtit>
-        <p>{{ publi.authors }}</p>
-        {% if publi.link.url %}
-          <a href="{{ publi.link.url }}" target="_blank">
-            <button class="btn-pdf">PDF</button>
-          </a>
-        {% endif %}
-        <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
-        <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
-          <p>{{ publi.description }}</p>
-        </div>
-        <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
-        <p>{{ publi.news2 }}</p>
-      </div>
-    </div>
-  </div>
+ <div class="well">
+  <table style="width:100%">
+  <tr>
+    <th style="width:10%"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left; margin-right: 15px;" /></th>
+    <th>Lastname</th> 
+  </tr>
+  </table>
+ </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
