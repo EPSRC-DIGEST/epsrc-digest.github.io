@@ -22,7 +22,7 @@ permalink: /publications/
 <li class="flex-item1">
   {% if publi.image %}
         <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" 
-             class="img-responsive publi-image" 
+             class="publi-image" 
              data-large-src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" 
              onclick="showLargeImage(this)" />
   {% endif %}
