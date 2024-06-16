@@ -21,10 +21,7 @@ permalink: /publications/
 <ul class="flex-container">
 <li class="flex-item1">
   {% if publi.image %}
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" 
-             class="publi-image" 
-             data-large-src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" 
-             onclick="showLargeImage(this)" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive publi-image" />
   {% endif %}
 </li>
 <li class="flex-item2">
