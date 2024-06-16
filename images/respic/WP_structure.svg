@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="992.06812"
+   height="438.87213"
+   viewBox="0 0 992.06812 438.87213"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="M 0,1.206994e-5 H 959.76 V 540.00001 H 0 Z"
+         id="path18" />
+    </clipPath>
+  </defs>
+  <g
+     id="g10"
+     transform="matrix(1.3333333,0,0,-1.3333333,-108.6033,513.7572)">
+    <g
+       id="g12" />
+    <path
+       d="m 280.12807,384.81781 h 174.3157 v -253.8794 h -174.3157 z"
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path28" />
+    <g
+       id="g30"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,280.12807,384.81781)">
+      <path
+         d="M 0,0 H 2213810 V 3224268 H 0 Z"
+         style="fill:none;stroke:#bfbfbf;stroke-width:12700;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path32" />
+    </g>
+    <g
+       id="g34"
+       transform="matrix(0.24,0,0,0.24,336.28587,-176.71779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#7f7f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text38"><tspan
+           x="0 62.497501 108.345 154.1925 195.84 216.6375"
+           y="0"
+           id="tspan36">Models</tspan></text>
+    </g>
+    <path
+       d="m 478.30367,384.81791 h 174.3157 v -253.8795 h -174.3157 z"
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path40" />
+    <g
+       id="g42"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,478.30367,384.81791)">
+      <path
+         d="M 0,0 H 2213810 V 3224269 H 0 Z"
+         style="fill:none;stroke:#bfbfbf;stroke-width:12700;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path44" />
+    </g>
+    <g
+       id="g46"
+       transform="matrix(0.24,0,0,0.24,511.46147,-176.71779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#7f7f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text50"><tspan
+           x="0 50.002499 91.68 137.4825 179.16 208.3125 229.14 295.79251 337.47 383.27249 408.29999"
+           y="0"
+           id="tspan48">Experiments</tspan></text>
+    </g>
+    <path
+       d="m 292.90827,217.52181 h 150.6666 v -72.7031 h -150.6666 z"
+       style="fill:#fff2cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path52" />
+    <g
+       id="g54"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,292.90827,217.52181)">
+      <path
+         d="M 0,0 H 1913467 V 923330 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path56" />
+    </g>
+    <g
+       id="g58"
+       transform="matrix(0.24,0,0,0.24,300.10827,-343.99779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text62"><tspan
+           x="0 70.830002 120.81 162.465 183.27"
+           y="0"
+           id="tspan60">WP1.1</tspan></text>
+    </g>
+    <g
+       id="g64"
+       transform="matrix(0.24,0,0,0.24,359.10817,-343.99779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text68"><tspan
+           x="0 54.165001 70.830002 112.47 154.11"
+           y="0"
+           id="tspan66">High </tspan></text>
+    </g>
+    <g
+       id="g70"
+       transform="matrix(0.24,0,0,0.24,300.10827,-365.11779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text74"><tspan
+           x="0 20.834999 37.5 79.169998 120.84 137.505 154.17 175.005 212.505 233.34 275.01001 300.00751 316.67249 358.3425 379.17749 420.8475 462.51749 504.1875"
+           y="0"
+           id="tspan72">fidelity grid and </tspan></text>
+    </g>
+    <g
+       id="g76"
+       transform="matrix(0.24,0,0,0.24,300.10827,-387.19779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text80"><tspan
+           x="0 62.497501 104.1675 129.16499 166.66499 208.33501 229.17 250.005 312.5025 354.17249 395.8425 437.51251"
+           y="0"
+           id="tspan78">market model</tspan></text>
+    </g>
+    <path
+       d="m 293.81217,351.53161 h 150.6667 v -50.8922 h -150.6667 z"
+       style="fill:#e2f0d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path82" />
+    <g
+       id="g84"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,293.81217,351.53161)">
+      <path
+         d="M 0,0 H 1913467 V 646331 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path86" />
+    </g>
+    <g
+       id="g88"
+       transform="matrix(0.24,0,0,0.24,301.01217,-210.07779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text92"><tspan
+           x="0 50.002499 87.502502 104.1675 141.6675 162.5025 179.1675 220.83749 262.50751"
+           y="0"
+           id="tspan90">Existing </tspan></text>
+    </g>
+    <g
+       id="g94"
+       transform="matrix(0.24,0,0,0.24,369.01217,-210.07779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text98"><tspan
+           x="0 69.480003 111.135 161.11501 181.92"
+           y="0"
+           id="tspan96">WeSIM</tspan></text>
+    </g>
+    <g
+       id="g100"
+       transform="matrix(0.24,0,0,0.24,301.01217,-230.95779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text104"><tspan
+           x="0 41.669998 83.339996 125.01 150.03 191.7 233.37 275.04001 295.85999 337.53 358.35001 420.87 462.54001 504.20999 545.88"
+           y="0"
+           id="tspan102">aggregate model</tspan></text>
+    </g>
+    <path
+       d="m 489.56367,336.99091 h 152.6841 v -72.7031 h -152.6841 z"
+       style="fill:#e2f0d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path106" />
+    <g
+       id="g108"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,489.56367,336.99091)">
+      <path
+         d="M 0,0 H 1939089 V 923330 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path110" />
+    </g>
+    <g
+       id="g112"
+       transform="matrix(0.24,0,0,0.24,496.76367,-224.71779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text116"><tspan
+           x="0 70.830002 120.81 162.465 183.27"
+           y="0"
+           id="tspan114">WP2.2</tspan></text>
+    </g>
+    <g
+       id="g118"
+       transform="matrix(0.24,0,0,0.24,555.76367,-224.71779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text122"><tspan
+           x="0 50.002499 70.837502 112.5075 154.17751 170.8425 212.5125 250.0125"
+           y="0"
+           id="tspan120">Studies </tspan></text>
+    </g>
+    <g
+       id="g124"
+       transform="matrix(0.24,0,0,0.24,496.76367,-245.59779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text128"><tspan
+           x="0 41.669998 83.339996 104.175 145.845 187.515 225.015 266.685 308.35501 345.85501 366.69 391.6875 433.35751 450.02249 491.6925 533.36249 575.03247"
+           y="0"
+           id="tspan126">on unconstrained </tspan></text>
+    </g>
+    <g
+       id="g130"
+       transform="matrix(0.24,0,0,0.24,496.76367,-267.67779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text134"><tspan
+           x="0 41.669998 66.690002 83.385002 125.055 145.875 208.395 250.065 291.73499 333.405"
+           y="0"
+           id="tspan132">grid model</tspan></text>
+    </g>
+    <path
+       d="m 489.11917,252.81251 h 152.6842 v -72.7032 h -152.6842 z"
+       style="fill:#e2f0d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path136" />
+    <g
+       id="g138"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,489.11917,252.81251)">
+      <path
+         d="M 0,0 H 1939089 V 923330 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path140" />
+    </g>
+    <g
+       id="g142"
+       transform="matrix(0.24,0,0,0.24,496.31917,-308.71779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text146"><tspan
+           x="0 70.830002 120.81 162.465 183.27"
+           y="0"
+           id="tspan144">WP2.3</tspan></text>
+    </g>
+    <g
+       id="g148"
+       transform="matrix(0.24,0,0,0.24,555.31927,-308.71779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text152"><tspan
+           x="0 50.002499 70.837502 112.5075 154.17751 170.8425 212.5125 250.0125"
+           y="0"
+           id="tspan150">Studies </tspan></text>
+    </g>
+    <g
+       id="g154"
+       transform="matrix(0.24,0,0,0.24,496.31917,-329.83779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text158"><tspan
+           x="0 41.669998 83.339996 104.175 141.675 183.345 225.015 262.51501 283.35001 308.3475 350.01749 366.6825 408.35251 450.02249 491.6925"
+           y="0"
+           id="tspan156">on constrained </tspan></text>
+    </g>
+    <g
+       id="g160"
+       transform="matrix(0.24,0,0,0.24,496.31917,-351.67779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text164"><tspan
+           x="0 41.669998 66.690002 83.385002 125.055 145.875 208.395 250.065 291.73499 333.405"
+           y="0"
+           id="tspan162">grid model</tspan></text>
+    </g>
+    <path
+       d="m 674.46187,284.15201 h 150.6667 v -50.8922 h -150.6667 z"
+       style="fill:#fbe5d6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path166" />
+    <g
+       id="g168"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,674.46187,284.15201)">
+      <path
+         d="M 0,0 H 1913467 V 646331 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path170" />
+    </g>
+    <g
+       id="g172"
+       transform="matrix(0.24,0,0,0.24,681.66187,-277.51779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text176"><tspan
+           x="0 70.830002 120.81"
+           y="0"
+           id="tspan174">WP4</tspan></text>
+    </g>
+    <g
+       id="g178"
+       transform="matrix(0.24,0,0,0.24,725.66187,-277.51779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text182"><tspan
+           x="0 50.002499 87.502502 129.1725 150.00751 191.67751 233.3475 270.8475 287.51251 325.01251"
+           y="0"
+           id="tspan180">Synthesis </tspan></text>
+    </g>
+    <g
+       id="g184"
+       transform="matrix(0.24,0,0,0.24,681.66187,-298.39779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text188"><tspan
+           x="0 41.669998 83.339996 125.01 145.845 162.50999 225.00751 266.67749 308.3475 345.8475"
+           y="0"
+           id="tspan186">and impact</tspan></text>
+    </g>
+    <path
+       d="m 293.81217,107.43101 h 150.6666 V 56.538823 h -150.6666 z"
+       style="fill:#fff2cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path190" />
+    <g
+       id="g192"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,293.81217,107.43101)">
+      <path
+         d="M 0,0 H 1913466 V 646331 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path194" />
+    </g>
+    <g
+       id="g196"
+       transform="matrix(0.24,0,0,0.24,301.01217,-454.15779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text200"><tspan
+           x="0 70.830002 120.81 162.465 183.27"
+           y="0"
+           id="tspan198">WP1.3</tspan></text>
+    </g>
+    <g
+       id="g202"
+       transform="matrix(0.24,0,0,0.24,360.01217,-454.15779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text206"><tspan
+           x="0 54.165001 104.13 158.295"
+           y="0"
+           id="tspan204">HPC </tspan></text>
+    </g>
+    <g
+       id="g208"
+       transform="matrix(0.24,0,0,0.24,301.01217,-475.27779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text212"><tspan
+           x="0 54.165001 95.834999 137.505 154.17 195.84 233.34 295.83749 337.50751 379.17749"
+           y="0"
+           id="tspan210">Deployment</tspan></text>
+    </g>
+    <path
+       d="m 444.47887,325.58541 39.6403,10e-5 v 1 l -39.6403,-10e-5 z m 38.6403,-2.4999 6,3 -6,3 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path214" />
+    <path
+       d="M 81.952474,384.81781 H 256.26817 V 130.93841 H 81.952474 Z"
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path216" />
+    <g
+       id="g218"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,81.952474,384.81781)">
+      <path
+         d="M 0,0 H 2213810 V 3224268 H 0 Z"
+         style="fill:none;stroke:#bfbfbf;stroke-width:12700;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path220" />
+    </g>
+    <g
+       id="g222"
+       transform="matrix(0.24,0,0,0.24,142.11027,-176.71779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#7f7f7f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text226"><tspan
+           x="0 20.834999 66.644997 112.455 158.265 183.3"
+           y="0"
+           id="tspan224">Inputs</tspan></text>
+    </g>
+    <path
+       d="m 292.90827,285.69531 h 150.6666 v -50.8922 h -150.6666 z"
+       style="fill:#fff2cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path228" />
+    <g
+       id="g230"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,292.90827,285.69531)">
+      <path
+         d="M 0,0 H 1913467 V 646331 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path232" />
+    </g>
+    <g
+       id="g234"
+       transform="matrix(0.24,0,0,0.24,300.10827,-275.83779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text238"><tspan
+           x="0 70.830002 120.81 162.465 183.27"
+           y="0"
+           id="tspan236">WP1.2</tspan></text>
+    </g>
+    <g
+       id="g240"
+       transform="matrix(0.24,0,0,0.24,359.10817,-275.83779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text244"><tspan
+           x="0 50.002499 70.830002 112.5075 137.535 179.21249 220.89 262.5675"
+           y="0"
+           id="tspan242">Storage </tspan></text>
+    </g>
+    <g
+       id="g246"
+       transform="matrix(0.24,0,0,0.24,300.10827,-296.95779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text250"><tspan
+           x="0 62.497501 104.145 145.7925 187.44 204.1125 220.785 237.4575 279.10501"
+           y="0"
+           id="tspan248">modelling</tspan></text>
+    </g>
+    <path
+       d="M 92.821674,285.79791 H 243.48817 v -50.8922 H 92.821674 Z"
+       style="fill:#deebf7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path252" />
+    <g
+       id="g254"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,92.821674,285.79791)">
+      <path
+         d="M 0,0 H 1913465 V 646331 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path256" />
+    </g>
+    <g
+       id="g258"
+       transform="matrix(0.24,0,0,0.24,100.02167,-275.83779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text262"><tspan
+           x="0 70.830002 120.81 162.465 183.27"
+           y="0"
+           id="tspan260">WP3.1</tspan></text>
+    </g>
+    <g
+       id="g264"
+       transform="matrix(0.24,0,0,0.24,158.69667,-275.83779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text268"><tspan
+           x="0 43.0425 59.685001 122.1525 163.845"
+           y="0"
+           id="tspan266">Time </tspan></text>
+    </g>
+    <g
+       id="g270"
+       transform="matrix(0.24,0,0,0.24,100.02167,-296.71779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text274"><tspan
+           x="0 37.5 79.169998 104.1675 120.8325 162.5025 200.0025 220.83749 283.33499 325.005 366.67499 408.345 425.01001 441.67499 458.34 500.01001"
+           y="0"
+           id="tspan272">series modelling</tspan></text>
+    </g>
+    <path
+       d="M 93.003074,218.06931 H 243.66967 v -72.7032 H 93.003074 Z"
+       style="fill:#deebf7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path276" />
+    <g
+       id="g278"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,93.003074,218.06931)">
+      <path
+         d="M 0,0 H 1913465 V 923330 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path280" />
+    </g>
+    <g
+       id="g282"
+       transform="matrix(0.24,0,0,0.24,100.20307,-343.51779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text286"><tspan
+           x="0 70.830002 120.81 162.465 183.27"
+           y="0"
+           id="tspan284">WP3.2</tspan></text>
+    </g>
+    <g
+       id="g288"
+       transform="matrix(0.24,0,0,0.24,159.20307,-343.51779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text292"><tspan
+           x="0 54.165001 95.805 116.67 158.31"
+           y="0"
+           id="tspan290">Data </tspan></text>
+    </g>
+    <g
+       id="g294"
+       transform="matrix(0.24,0,0,0.24,100.20307,-364.63779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text298"><tspan
+           x="0 41.669998 83.339996 125.01 166.67999 191.7 233.37 254.19 270.88501 312.55499 354.22501 375.04501 416.715 458.38501 500.05499"
+           y="0"
+           id="tspan296">generation and </tspan></text>
+    </g>
+    <g
+       id="g300"
+       transform="matrix(0.24,0,0,0.24,100.20307,-386.47779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text304"><tspan
+           x="0 62.497501 104.145 145.7925 187.44 229.08749 270.73499 333.23251 374.88 416.5275"
+           y="0"
+           id="tspan302">management</tspan></text>
+    </g>
+    <path
+       d="m 270.18077,250.40451 v 4.9737 h -13.56 v 9.9474 h 13.56 v 4.9737 l 9.9474,-9.9474 z"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path306" />
+    <g
+       id="g308"
+       transform="matrix(0,7.874016e-5,7.874016e-5,0,256.62077,250.40451)">
+      <path
+         d="M 0,172212.6 H 63165.75 V 0 H 189497.3 V 172212.6 H 252663 L 126331.5,298544 Z"
+         style="fill:none;stroke:#767171;stroke-width:12700;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path310" />
+    </g>
+    <path
+       d="M 92.821574,352.07901 H 243.48817 v -50.8922 H 92.821574 Z"
+       style="fill:#e2f0d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path312" />
+    <g
+       id="g314"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,92.821574,352.07901)">
+      <path
+         d="M 0,0 H 1913465 V 646331 H 0 Z"
+         style="fill:none;stroke:#000000;stroke-width:9525;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path316" />
+    </g>
+    <g
+       id="g318"
+       transform="matrix(0.24,0,0,0.24,100.02157,-209.59779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:bold;font-size:75px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text322"><tspan
+           x="0 70.830002 120.81 162.465 183.27 224.925"
+           y="0"
+           id="tspan320">WP2.1 </tspan></text>
+    </g>
+    <g
+       id="g324"
+       transform="matrix(0.24,0,0,0.24,159.02157,-209.59779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text328"><tspan
+           x="0 50.002499 87.502502 125.0025 145.83749 187.50751 250.005"
+           y="0"
+           id="tspan326">System </tspan></text>
+    </g>
+    <g
+       id="g330"
+       transform="matrix(0.24,0,0,0.24,100.02157,-230.47779)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1,0,0,-1,0,2250)"
+         style="font-variant:normal;font-weight:normal;font-size:75px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text334"><tspan
+           x="0 37.5 75 116.67 158.34 200.00999 225.00751 241.6725 283.3425"
+           y="0"
+           id="tspan332">scenarios</tspan></text>
+    </g>
+    <path
+       d="m 444.47887,326.58541 h 22.8202 v -110.1245 l -0.5,0.5 h 17.3202 v -1 h -17.8202 v 110.1245 l 0.5,-0.5 h -22.3202 z m 38.6404,-107.1245 6,-3 -6,-3 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path336" />
+    <path
+       d="m 443.57487,180.67021 h 23.7722 v 27.8844 l -0.5,-0.5 h 17.2721 v 1 h -17.7721 v -27.8844 l 0.5,0.5 h -23.2722 z m 39.5443,24.8844 6,3 -6,3 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path338" />
+    <path
+       d="m 642.24777,301.13941 h 16.6071 v -42.4336 l -0.5,0.5 h 11.107 v -1 h -11.607 v 42.4336 l 0.5,-0.5 h -16.1071 z m 26.2141,-39.4336 6,-3 -6,-3 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path340" />
+    <path
+       d="m 641.80337,215.96091 h 17.0794 v 42.7449 l -0.5,-0.5 h 11.0791 v 1 h -11.5791 v -42.7449 l 0.5,0.5 h -16.5794 z m 26.6585,39.7449 6,3 -6,3 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path342" />
+    <path
+       d="m 370.72857,234.31231 v -12.2813 h -1 v 12.2813 z m 2.5,-11.2813 -3,-6 -3,6 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path344" />
+    <path
+       d="m 369.72857,286.18611 v 9.2421 h 1 v -9.2421 z m -2.5,8.2421 2.9999,6 3.0001,-6 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path346" />
+    <path
+       d="m 360.28117,117.37841 h 4.9736 v 13.56 h 9.9474 v -13.56 h 4.9737 l -9.9474,-9.9474 z"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path348" />
+    <g
+       id="g350"
+       transform="matrix(7.874016e-5,0,0,-7.874016e-5,360.28117,130.93841)">
+      <path
+         d="M 0,172212.6 H 63165.75 V 0 H 189497.3 V 172212.6 H 252663 L 126331.5,298544 Z"
+         style="fill:none;stroke:#767171;stroke-width:12700;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         id="path352" />
+    </g>
+  </g>
+</svg>
