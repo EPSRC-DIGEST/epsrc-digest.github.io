@@ -53,4 +53,18 @@
 			element.style.display = "none";
 		}
 	}
+	function showLargeImage(imgElement) {
+		var modal = document.getElementById("largeImageModal");
+		var modalImg = document.getElementById("largeImage");
+		var captionText = document.getElementById("caption");
+
+		modal.style.display = "block";
+		modalImg.src = imgElement.getAttribute("data-large-src");
+		captionText.innerHTML = imgElement.alt;
+	}
+
+	function closeLargeImage() {
+		var modal = document.getElementById("largeImageModal");
+		modal.style.display = "none";
+	}
 </script>
