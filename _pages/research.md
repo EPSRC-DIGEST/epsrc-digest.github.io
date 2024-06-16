@@ -1,7 +1,7 @@
 ---
 title: "DIGEST project - Research"
 layout: textlay
-excerpt: "DIGEST project -- Research"
+excerpt: "DIGEST -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -55,7 +55,7 @@ Edinburgh have developed a high-fidelity 3000 node GB transmission network model
 Imperial use the long established whole-electricity system model (WeSIM), which quantifies cost implications across different segments of electricity system using mixed integer linear programming. As part of this project WeSIM will be extended to represent the GB transmission network with a granularity of 37 nodes. 
 
 <p align="center">
-  <img alt="DIGEST project Imperial College UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/WeSIM_nodes.png" width="80%">
+  <img alt="DIGEST project Imperial College UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/WeSIM_nodes.png" width="50%">
   <br>
     <em>Figure 3. 37 nodes for location specific assessment of storage on the GB grid</em>
 </p>
