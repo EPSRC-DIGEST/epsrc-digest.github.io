@@ -41,10 +41,11 @@ Work packages
 
 Edinburgh have developed a high-fidelity 3000 node GB transmission network model integrated with a Balancing Mechanism model and Elexon unit-level data.
 
-<figure style="text-align: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/emissions.png" alt="DIGEST project Edinburgh UK grid model" style="width: 80%;">
-    <figcaption style="font-style: italic; font-size: 0.9em;">Figure 1. Cost and carbon implications of deploying additional wind capacity in different locations on the GB grid</figcaption>
-</figure>
+<p align="center">
+  <img alt="DIGEST project Edinburgh UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/emissions.png" width="80%">
+  <br>
+    <em>Figure 1. Cost and carbon implications of deploying additional wind capacity in different locations on the GB grid</em>
+</p>
 
 
 ### The Imperial model (WeSIM)
