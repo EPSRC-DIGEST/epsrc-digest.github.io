@@ -23,10 +23,7 @@ To test these, we will develop novel GB transmission grid and market models, and
 
 ### DIGEST has five key objectives
 
-
-<div style="text-align: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/WP_structure.svg" alt="DIGEST project work package structure" style="width: 70%;">
-</div>
+![]({{ site.url }}{{ site.baseurl }}/images/respic/WP_structure.svg){: style="width: 70%; float: center; margin: 0px"}
 
 Work packages
 
