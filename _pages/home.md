@@ -18,8 +18,8 @@ DIGEST focuses on integration of grid energy storage. Specifically, it aims to d
 
 This project aims to test two hypotheses:
 
-that carbon emission benefits occur if the location-specific impacts of storage during dispatch are accounted for;
-that optimal placement of storage in the network enables substantially accelerated deployment of clean energy generators.
+1. that carbon emission benefits occur if the location-specific impacts of storage during dispatch are accounted for;
+2. that optimal placement of storage in the network enables substantially accelerated deployment of clean energy generators.
 To test these, we will develop novel GB transmission grid and market models, and simulate two scenario groups: First, what are the emissions impacts of existing and soon-to-be-built storage, and how could emissions be reduced? Second, how will emissions evolve over the next 15 years considering planned generation, storage, upgrades, and new demand.
 
 ### References
