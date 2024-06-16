@@ -37,8 +37,8 @@ permalink: /publications/
  <div class="well">
   <table style="width:100%">
   <tr>
-    <th style="width:10%"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left; margin-right: 15px;" /></th>
-    <th>Lastname</th> 
+    <th style="width:10%"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="float: left; margin-right: 15px;" /></th>
+    <th><pubtit>{{ publi.title }}</pubtit><p>{{ publi.authors }}</p></th> 
   </tr>
   </table>
  </div>
