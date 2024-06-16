@@ -33,7 +33,7 @@ permalink: /publications/
  </div>
 </div>
 
-<div class="well-sm">
+<div class="well">
 <ul class="flex-container">
 <li class="flex-item1">
   {% if publi.image %}
