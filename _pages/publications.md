@@ -17,27 +17,14 @@ permalink: /publications/
 
 {% if publi.highlight == 1 %}
 
-
-<!-- <div class="clearfix">
- <div class="well">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left; margin-right: 15px;" />
-  <pubtit>{{ publi.title }}</pubtit>
-  <p>{{ publi.authors }}</p>
-  {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
-  <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
-  <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
-    <p>{{ publi.description }}</p>
-  </div>
-  <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
-  <p>{{ publi.news2 }}</p>
- </div>
-</div> -->
-
 <div class="well">
 <ul class="flex-container">
 <li class="flex-item1">
   {% if publi.image %}
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive publi-image" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" 
+             class="img-responsive publi-image" 
+             data-large-src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" 
+             onclick="showLargeImage(this)" />
   {% endif %}
 </li>
 <li class="flex-item2">
