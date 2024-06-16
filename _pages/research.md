@@ -23,7 +23,10 @@ To test these, we will develop novel GB transmission grid and market models, and
 
 ### DIGEST has five key objectives
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/WP_structure.svg" alt="DIGEST project work package structure" style="width: 80%;">
+
+<div style="text-align: center;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/WP_structure.svg" alt="DIGEST project work package structure" style="width: 70%;">
+</div>
 
 Work packages
 
@@ -42,7 +45,7 @@ Work packages
 Edinburgh have developed a high-fidelity 3000 node GB transmission network model integrated with a Balancing Mechanism model and Elexon unit-level data.
 
 <p align="center">
-  <img alt="DIGEST project Edinburgh UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/emissions.png" width="80%">
+  <img alt="DIGEST project Edinburgh UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/emissions.png" width="60%">
   <br>
     <em>Figure 1. Cost and carbon implications of deploying additional wind capacity in different locations on the GB grid</em>
 </p>
