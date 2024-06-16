@@ -18,7 +18,7 @@ permalink: /publications/
 {% if publi.highlight == 1 %}
 
 
-<div class="clearfix">
+<!-- <div class="clearfix">
  <div class="well">
    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="10%" style="float: left; margin-right: 15px;" />
   <pubtit>{{ publi.title }}</pubtit>
@@ -31,7 +31,7 @@ permalink: /publications/
   <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
   <p>{{ publi.news2 }}</p>
  </div>
-</div>
+</div> -->
 
 <div class="well">
 <ul class="flex-container">
@@ -45,14 +45,10 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   {{ publi.display }} {% if publi.year %}({{publi.year}}){% endif %}<br/>
   {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
-  {% if publi.description %} <a data-toggle="collapse" href="#abstract{{ forloop.index }}" class="btn-abstract" style="text-decoration:none; color:#ebebeb;" role="button" aria-expanded="false" aria-controls="abstract{{ forloop.index }}">ABSTRACT</a>{% endif %}
-
-{% if publi.description %}
-<br/>
-<div class="collapse" id="abstract{{ forloop.index }}"><div class="well-abstract">
- {{publi.description}}
-</div></div>
-{% endif %}
+  <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
+  <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
+    <p>{{ publi.description }}</p>
+  </div>
 
 </li>
 </ul>
