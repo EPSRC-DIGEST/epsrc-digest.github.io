@@ -21,9 +21,17 @@
   info: Senior Lecturer in Electronic and Electrical Engineering
   email: Marko.Aunedi@brunel.ac.uk
   number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
+  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Imperial
   education2: Master, University of Tokyo
 
+- name: Dr Paul M. C. Sapin
+  photo: Marko.jpg
+  info: Senior Lecturer in Electronic and Electrical Engineering
+  email: Marko.Aunedi@brunel.ac.uk
+  number_educ: 2
+  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
+  education2: Master, University of Tokyo
+  
 - name: Dr Thomas Morstyn
   photo: Thomas.jpg
   info: Postdoc, since 2023
