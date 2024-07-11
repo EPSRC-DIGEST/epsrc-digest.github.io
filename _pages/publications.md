@@ -33,7 +33,7 @@ permalink: /publications/
   <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
     <p>{{ publi.description }}</p>
   </div>
-
+  {% if publi.code %}<a href="{{ publi.code }}" target="_blank"><button class="btn-pdf">CODE</button></a>{% endif %}
 </li>
 </ul>
 

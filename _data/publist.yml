@@ -7,6 +7,7 @@
     url: https://arxiv.org/pdf/2403.10617
     display: American Control Conference 2024
   highlight: 1
+  code: https://github.com/Battery-Intelligence-Lab/BatteryOpportunity
 
 - title: "Taking the long view on short-run marginal emissions: how much carbon does flexibility and energy storage save?"
   image: OOE.png
