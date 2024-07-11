@@ -29,11 +29,11 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   {{ publi.display }} {% if publi.year %}({{publi.year}}){% endif %}<br/>
   {% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
+  {% if publi.code %}<a href="{{ publi.code }}" target="_blank"><button class="btn-pdf">CODE</button></a>{% endif %}
   <button class="btn-abstract" onclick="toggleAbstract('abstract{{ forloop.index }}')">ABSTRACT</button>
   <div id="abstract{{ forloop.index }}" class="abstract-content" style="display:none;">
     <p>{{ publi.description }}</p>
   </div>
-  {% if publi.code %}<a href="{{ publi.code }}" target="_blank"><button class="btn-pdf">CODE</button></a>{% endif %}
 </li>
 </ul>
 
