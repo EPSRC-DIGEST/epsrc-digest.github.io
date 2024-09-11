@@ -41,9 +41,6 @@ Welcome to our research project 'DIGEST' (**D**ata-driven exploration of the car
   </a>
 </div>
 
-We are a dynamic research group, at the [Battery Intelligence Lab](https://howey.eng.ox.ac.uk/). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
-
-
 # Summary
 
 DIGEST focuses on integration of grid energy storage. Specifically, it aims to demonstrate the carbon emissions savings possible by optimally locating and operating storage to avoid curtailment of renewables and additional fossil fuel generation. Energy storage can provide many benefits to the power grid, and it is projected that substantial storage will be required to meet UK net-zero targets (Aunedi 2021). However, it is not clear whether the financial and environmental advantages of storage currently align (e.g., if storage is placed far from excess renewable generation, on the other side of a congested network).
