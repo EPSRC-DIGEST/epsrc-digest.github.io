@@ -1,5 +1,5 @@
 ---
-title: "DIGEST project - Home"
+title: "DIGEST Project - Home"
 layout: homelay
 excerpt: "DIGEST project at Oxford University &rarr; Oxford."
 sitemap: false
@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome!  
 
-Data-driven exploration of the carbon emissions impact of grid energy storage deployment and dispatch. EPSRC funded collaboration between Universities of Oxford and Edinburgh and Imperial College London
+Welcome to our research project 'DIGEST' (Data-driven exploration of the carbon emissions Impact of Grid Energy STorage deployment and dispatch), funded by UKRI/EPSRC, a collaboration between Oxford University, Imperial College London, and Brunel University. This project explores how grid energy storage systems impact the carbon dioxide emissions from the power system.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
