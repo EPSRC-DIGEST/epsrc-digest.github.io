@@ -1,19 +1,12 @@
 ---
-title: "DIGEST project - Team"
+title: "DIGEST Project - Team"
 layout: gridlay
-excerpt: "DIGEST project: Team members"
+excerpt: "DIGEST Project: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
-
- **We may be looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-Jump to [administrative support](#administrative-support).
-
-## Staff
+# Research Team
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -75,6 +68,3 @@ Jump to [administrative support](#administrative-support).
 </div>
 {% endif %}
 
-
-## Administrative Support
-<a href="mailto:elizabeth.wilden@eng.ox.ac.uk">Elizabeth Wilden </a> is helping us (and other groups) with administration.
