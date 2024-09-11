@@ -8,29 +8,29 @@
   education3: PhD, Imperial College London, Department of Mechanical Engineering and Department of Electrical and Electronic Engineering
   education4: <b>(First class honours)</b> and <b>MEng (Merit)</b>, Engineering and Electrical and Information Sciences Tripos, Queens' College, University of Cambridge
 
-- name: Professor Tim Green, FREng
+- name: Professor Tim Green, FREng. FIEEE, FIET, FRSA
   photo: Tim.jpg
-  info: Professor, started Oct 2020
+  info: PAcademic Leader for Sustainability, Professor Department of Electrical and Electronic Engineering - Faculty of Engineering
   email: t.green@imperial.ac.uk
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: PhD, Heriot-Watt University, Edinburgh, United Kingdom
+  education2: BSc(Eng), Imperial College London, London, United Kingdom
 
 - name: Dr Marko Aunedi
   photo: Marko.jpg
   info: Senior Lecturer in Electronic and Electrical Engineering
   email: Marko.Aunedi@brunel.ac.uk
   number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Imperial
-  education2: Master, University of Tokyo
+  education1: PhD from Imperial College London
+  education2: MEng and MSc degrees from the University of Zagreb, Croatia
 
 - name: Dr Paul M. C. Sapin
-  photo: Marko.jpg
-  info: Senior Lecturer in Electronic and Electrical Engineering
-  email: Marko.Aunedi@brunel.ac.uk
+  photo: Sapin.jpg
+  info: Research Associate at Department of Chemical Engineering - Faculty of Engineering
+  email: p.sapin@imperial.ac.uk
   number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+  education1: PhD in Fluid Mechanics and Heat Transfer at National Polytechnic Institute of Toulouse in 2014
+  education2: MEng degree in 2010 in Mechanical/Thermal Engineering from ISAE-ENSMA, a Mechanical and Aeronautical Engineering School located in Poitiers, France.
   
 - name: Professor Thomas Morstyn
   photo: Thomas.jpg
@@ -42,7 +42,7 @@
 
 - name: Dr Volkan Kumtepeli
   photo: Volkan.jpg
-  info: Postdoctoral Research Assistant, since 2021 February
+  info: Senior Research Associate
   email: volkan.kumtepeli@eng.ox.ac.uk
   number_educ: 3
   education1: PhD, Interdisciplinary Graduate School, Nanyang Technological University.
@@ -51,26 +51,36 @@
 
 - name: Dr Seyyed Mostafa Nosratabadi
   photo: Mostafa.jpg
-  info: Postdoc, since November 2023
+  info: Postdoctoral Research Associate, until September 2024
   email: mostafa.nosratabadi@eng.ox.ac.uk
   number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
-  education2: MSc KIT
+  education1: Faculty Member at the Department of Electrical Engineering at Sirjan University of Technology, Iran, from Jun. 2017.
+  education2: Ph.D. in Electrical Engineering-Power Systems from the University of Isfahan.
 
-- name: Dr Phil Grünewald
+- name: Dr Phil Grünewald (FICE)
   photo: Phil.jpg
-  info: Research Fellow, started September 2021
+  info: Oxford Martin Fellow and a Tutor at Oriel College
   email: philipp.grunewald@eng.ox.ac.uk
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
+  number_educ: 1
+  education1: PhD at Imperial College London on the future role of grid storage.
+  education2: 
+  education3:
+  education4:
+
+- name: Dr Martin Robinson
+  photo: Martin_Robinson.jpg
+  info: programme Leader, Research Software Engineering Team
+  email: martin.robinson@cs.ox.ac.uk
+  number_educ: 1
+  education1: PhD on "Mixing and Turbulence using Smoothed Particle Hydrodynamics" in the School of Mathematical Sciences at Monash University, Australia, under the supervision of Prof. Joseph Monaghan and Dr. Paul Cleary from the Computational Modelling group at CSIRO Mathematics.
+  education2: 
   education3:
   education4:
 
 - name: Industry partners
   photo: team.jpg
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
+  info: OCF, National Grid, Pivot Power, 
   email: b
-  number_educ: 2
-  education1: Master Oxford University
-  education2: BSc, University of the Basque Country
+  number_educ: 0
+  education1: 
+  education2: 
