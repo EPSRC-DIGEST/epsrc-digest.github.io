@@ -32,14 +32,13 @@
   education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
   education2: Master, University of Tokyo
   
-- name: Dr Thomas Morstyn
+- name: Professor Thomas Morstyn
   photo: Thomas.jpg
-  info: Postdoc, since 2023
+  info: Associate Professor in Power Systems, Department of Engineering Science, University of Oxford
   email: thomas.morstyn@eng.ox.ac.uk
-  number_educ: 3
-  education1: PhD Student, 2018-2023
-  education2: Master Oxford University with Milan Allan
-  education3: Casimir PhD fellowship
+  number_educ: 2
+  education1: PhD, University of New South Wales, 2016.
+  education2: BEng (Hons.), University of Melbourne, 2011.
 
 - name: Dr Volkan Kumtepeli
   photo: Volkan.jpg
