@@ -1,16 +1,12 @@
 ---
-title: "DIGEST project - Publications"
+title: "DIGEST Project - Publications"
 layout: gridlay
-excerpt: "DIGEST project -- Publications."
+excerpt: "DIGEST Project -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 # Publications
-
-## Group highlights
-
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?query=Howey+David&searchtype=author&abstracts=show&order=-announced_date_first&size=50).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -45,12 +41,3 @@ permalink: /publications/
 {% endfor %}
 
 <p> &nbsp; </p>
-
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }}</em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
