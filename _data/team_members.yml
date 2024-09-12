@@ -1,80 +1,35 @@
-- name: David Howey
+- name: Professor David Howey SMIEEE
   photo: Dave.png
-  info: Project lead and Professor of Engineering Science, Oxford University
+  info: Project Lead and Professor of Engineering Science, Oxford University
 
-- name: Professor Tim Green, FREng. FIEEE, FIET, FRSA
+- name: Professor Tim Green FREng FIEEE FIET FRSA
   photo: Tim.jpg
-  info: PAcademic Leader for Sustainability, Professor Department of Electrical and Electronic Engineering - Faculty of Engineering
-  email: t.green@imperial.ac.uk
-  number_educ: 2
-  education1: PhD, Heriot-Watt University, Edinburgh, United Kingdom
-  education2: BSc(Eng), Imperial College London, London, United Kingdom
+  info: Professor of Electrical Power Engineering, Imperial College London
 
 - name: Dr Marko Aunedi
   photo: Marko.jpg
-  info: Senior Lecturer in Electronic and Electrical Engineering
-  email: Marko.Aunedi@brunel.ac.uk
-  number_educ: 2
-  education1: PhD from Imperial College London
-  education2: MEng and MSc degrees from the University of Zagreb, Croatia
+  info: Senior Lecturer in Electronic and Electrical Engineering, Brunel University
 
-- name: Dr Paul M. C. Sapin
+- name: Dr Paul Sapin
   photo: Sapin.jpg
-  info: Research Associate at Department of Chemical Engineering - Faculty of Engineering
-  email: p.sapin@imperial.ac.uk
-  number_educ: 2
-  education1: PhD in Fluid Mechanics and Heat Transfer at National Polytechnic Institute of Toulouse in 2014
-  education2: MEng degree in 2010 in Mechanical/Thermal Engineering from ISAE-ENSMA, a Mechanical and Aeronautical Engineering School located in Poitiers, France.
+  info: Research Associate, Department of Chemical Engineering, Imperial College London
   
 - name: Professor Thomas Morstyn
   photo: Thomas.jpg
   info: Associate Professor in Power Systems, Department of Engineering Science, University of Oxford
-  email: thomas.morstyn@eng.ox.ac.uk
-  number_educ: 2
-  education1: PhD, University of New South Wales, 2016.
-  education2: BEng (Hons.), University of Melbourne, 2011.
 
 - name: Dr Volkan Kumtepeli
   photo: Volkan.jpg
-  info: Senior Research Associate
-  email: volkan.kumtepeli@eng.ox.ac.uk
-  number_educ: 3
-  education1: PhD, Interdisciplinary Graduate School, Nanyang Technological University.
-  education2: Exchange student <a href="https://www.tum.de/en/">Technical University of Munich</a>
-  education3: BSc <a href="https://www.yildiz.edu.tr/en/">Yildiz Technical University</a>
+  info: Senior Research Associate, University of Oxford
 
 - name: Dr Seyyed Mostafa Nosratabadi
   photo: Mostafa.jpg
-  info: Postdoctoral Research Associate, until September 2024
-  email: mostafa.nosratabadi@eng.ox.ac.uk
-  number_educ: 2
-  education1: Faculty Member at the Department of Electrical Engineering at Sirjan University of Technology, Iran, from Jun. 2017.
-  education2: Ph.D. in Electrical Engineering-Power Systems from the University of Isfahan.
+  info: Postdoctoral Research Associate, University of Oxford (until September 2024)
 
-- name: Dr Phil Grünewald (FICE)
+- name: Dr Phil Grünewald FICE
   photo: Phil.jpg
-  info: Oxford Martin Fellow and a Tutor at Oriel College
-  email: philipp.grunewald@eng.ox.ac.uk
-  number_educ: 1
-  education1: PhD at Imperial College London on the future role of grid storage.
-  education2: 
-  education3:
-  education4:
+  info: Oxford Martin Fellow, Tutor at Oriel College Oxford
 
 - name: Dr Martin Robinson
   photo: Martin_Robinson.jpg
-  info: programme Leader, Research Software Engineering Team
-  email: martin.robinson@cs.ox.ac.uk
-  number_educ: 1
-  education1: PhD on "Mixing and Turbulence using Smoothed Particle Hydrodynamics" in the School of Mathematical Sciences at Monash University, Australia, under the supervision of Prof. Joseph Monaghan and Dr. Paul Cleary from the Computational Modelling group at CSIRO Mathematics.
-  education2: 
-  education3:
-  education4:
-
-- name: Industry partners
-  photo: team.jpg
-  info: OCF, National Grid, Pivot Power, 
-  email: b
-  number_educ: 0
-  education1: 
-  education2: 
+  info: Head of Oxford Research Software Engineering Group
