@@ -1,12 +1,6 @@
-- name: David A. Howey
+- name: David Howey
   photo: Dave.png
-  info: Professor, started Jan 2010
-  email: david.howey@eng.ox.ac.uk
-  number_educ: 4
-  education1: Professor, Dept. of Engineering Science at Oxford University. 
-  education2: Post-Doctoral Research Associate, Mechanical Engineering Dept. plus Electrical and Electronic Engineering Dept., Imperial College London
-  education3: PhD, Imperial College London, Department of Mechanical Engineering and Department of Electrical and Electronic Engineering
-  education4: <b>(First class honours)</b> and <b>MEng (Merit)</b>, Engineering and Electrical and Information Sciences Tripos, Queens' College, University of Cambridge
+  info: Project lead and Professor of Engineering Science, Oxford University
 
 - name: Professor Tim Green, FREng. FIEEE, FIET, FRSA
   photo: Tim.jpg
