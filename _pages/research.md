@@ -1,5 +1,5 @@
 ---
-title: "DIGEST project - Research"
+title: "DIGEST Project - Research"
 layout: textlay
 excerpt: "DIGEST -- Research"
 sitemap: false
@@ -8,20 +8,18 @@ permalink: /research/
 
 # Research
 
-Data-driven exploration of the carbon emissions impact of grid energy storage deployment and dispatch
-
 ## Summary
-DIGEST focuses on integration of grid energy storage. Specifically, it aims to demonstrate the carbon emissions savings possible by optimally locating and operating storage to avoid curtailment of renewables and additional fossil fuel generation. Energy storage can provide many benefits to the power grid, and it is projected that substantial storage will be required to meet UK net-zero targets (Aunedi 2021). However, it is not clear whether the financial and environmental advantages of storage currently align (e.g., if storage is placed far from excess renewable generation, on the other side of a congested network).
+DIGEST focuses on the integration of grid energy storage into the grid. Specifically, the project aims to demonstrate the carbon emissions savings possible by optimally locating and operating storage to avoid curtailment of renewables and additional fossil fuel generation. Energy storage can provide many benefits to the power grid, and it is projected that substantial storage will be required to meet UK net-zero targets (Aunedi 2021). However, it is not clear whether the financial and environmental advantages of storage currently align (e.g., if storage is placed far from excess renewable generation, on the other side of a congested network).
 
-This project aims to test two hypotheses:
+The DIGEST project aims to test two hypotheses:
 
 1. that carbon emission benefits occur if the location-specific impacts of storage during dispatch are accounted for;
 2. that optimal placement of storage in the network enables substantially accelerated deployment of clean energy generators.
-To test these, we will develop novel GB transmission grid and market models, and simulate two scenario groups: First, what are the emissions impacts of existing and soon-to-be-built storage, and how could emissions be reduced? Second, how will emissions evolve over the next 15 years considering planned generation, storage, upgrades, and new demand.
+To explore these, we have developed novel GB transmission grid and market models, and are simulating two scenario groups. First, what are the emissions impacts of existing and soon-to-be-built storage, and how could emissions be reduced? Second, how will emissions evolve over the next 15 years considering planned generation, storage, upgrades, and new demand.
 
 ## Objectives
 
-### DIGEST has five key objectives
+DIGEST has five key objectives, structured into four work packages:
 
 <p align="center">
   <img alt="DIGEST project work package structure" src="{{ site.url }}{{ site.baseurl }}/images/respic/WP_structure.svg" width="70%">
@@ -37,11 +35,11 @@ To test these, we will develop novel GB transmission grid and market models, and
 
 ## Models
 
-**DIGEST advances and links leading national network models**
+DIGEST advances and links leading GB national network models:
 
-### The Edinburgh model 
+### High-fidelity short-term model 
 
-Edinburgh have developed a high-fidelity 3000 node GB transmission network model integrated with a Balancing Mechanism model and Elexon unit-level data.
+Thomas Morstyn and team have developed a high-fidelity 2000 node GB transmission network model integrated with a Balancing Mechanism market model and Elexon unit-level data.
 
 <p align="center">
   <img alt="DIGEST project Edinburgh UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/emissions.png" width="60%">
@@ -50,9 +48,9 @@ Edinburgh have developed a high-fidelity 3000 node GB transmission network model
 </p>
 
 
-### The Imperial model (WeSIM)
+### Long-term model 
 
-Imperial use the long established whole-electricity system model (WeSIM), which quantifies cost implications across different segments of electricity system using mixed integer linear programming. As part of this project WeSIM will be extended to represent the GB transmission network with a granularity of 37 nodes. 
+Marko Aunedi and team are using an established whole-electricity system model to quantify cost implications across different segments of electricity system using mixed integer linear programming. As part of this project this will be extended to represent the GB transmission network with a higher granularity. 
 
 <p align="center">
   <img alt="DIGEST project Imperial College UK grid model" src="{{ site.url }}{{ site.baseurl }}/images/respic/WeSIM_nodes.png" width="50%">
