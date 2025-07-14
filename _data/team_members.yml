@@ -10,19 +10,23 @@
   photo: Marko.jpg
   info: Senior Lecturer in Electronic and Electrical Engineering, Brunel University
 
-- name: Dr Paul Sapin
-  photo: Sapin.jpg
-  info: Research Associate, Department of Chemical Engineering, Imperial College London
-  
 - name: Professor Thomas Morstyn
   photo: Thomas.jpg
   info: Associate Professor in Power Systems, Department of Engineering Science, University of Oxford
+
+- name: Dr Paul Sapin
+  photo: Sapin.jpg
+  info: Research Associate, Department of Chemical Engineering, Imperial College London
 
 - name: Dr Volkan Kumtepeli
   photo: Volkan.jpg
   info: Senior Research Associate, University of Oxford
 
-- name: Dr Seyyed Mostafa Nosratabadi
+- name: Dr Sobhan Naderian
+  photo: Sobhan.jpg
+  info: Research Fellow, Brunel University of London
+
+- name: Dr Seyyed Mostafa Nosratabadi (until September 2024)
   photo: Mostafa.jpg
   info: Postdoctoral Research Associate, University of Oxford (until September 2024)
 
